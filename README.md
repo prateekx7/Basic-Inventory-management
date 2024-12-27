@@ -1,6 +1,6 @@
 # Inventory Management
 
-This project is an Inventory Management system implemented in C++. The main functionality is provided by the 'inventory.cpp` file.
+This project is an Inventory Management system implemented in C++. The main functionality is provided by the 'inventory.cpp' file.
 
 - Add new items to the inventory
 - Remove items from the inventory
